@@ -11,7 +11,7 @@ Este repositório contém o projeto final da atividade MAPA, desenvolvido para a
 - **Servidor de Aplicação:** Apache Tomcat 7
 - **Ambiente de Desenvolvimento:** GitHub Codespaces
 
-## 📋 Funcionalidades
+##  Funcionalidades
 
 - **Cadastro de Livros:** Formulário JSF com validação de campos obrigatórios e formato de ISBN.
 - **Listagem de Livros:** Tabela JSP exibindo o acervo de forma organizada.
@@ -23,9 +23,12 @@ O projeto foi estruturado com Maven. Para rodar localmente ou em um Codespace, b
 
 ```bash
 mvn clean package tomcat7:run
+```
 
-
+Após a inicialização do servidor, acesse o sistema no navegador através do endereço:
+`http://localhost:8080` (ou a URL encaminhada pelo Codespaces).
 
 ## 👤 Autor
 
-Desenvolvido por **Michele Francisca de Almeida** para a Universidade Cesumar.
+**Nome:** Michele Francisca de Almeida   
+**Instituição:** Universidade Cesumar
