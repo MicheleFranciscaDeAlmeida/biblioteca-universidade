@@ -25,4 +25,5 @@ O projeto foi estruturado com Maven. Para rodar localmente ou em um Codespace, b
 mvn clean package tomcat7:run
 
 ## 👤 Autor
-Desenvolvido por Michele Francisca de Almeida para a Universidade Cesumar.
+
+Desenvolvido por **Michele Francisca de Almeida** para a Universidade Cesumar.
