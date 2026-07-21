@@ -1,4 +1,4 @@
-# 📚 Sistema Web - Biblioteca Universidade Cesumar
+# 📚 Sistema Web - Biblioteca Universidade
 
 Este repositório contém o projeto final da atividade MAPA, desenvolvido para a disciplina de Desenvolvimento Web. O sistema foi criado para modernizar o controle de acervo da biblioteca, substituindo planilhas manuais por uma aplicação web robusta.
 
@@ -31,4 +31,4 @@ Após a inicialização do servidor, acesse o sistema no navegador através do e
 ## 👤 Autor
 
 **Nome:** Michele Francisca de Almeida   
-**Instituição:** Universidade Cesumar
+**Instituição:** Universidade
