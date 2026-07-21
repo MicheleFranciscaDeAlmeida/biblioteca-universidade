@@ -1,4 +1,4 @@
-/workspaces/biblioteca-cesumar/src/main/java/com/cesumar/model/Livro.java
-/workspaces/biblioteca-cesumar/src/main/java/com/cesumar/model/LivroDAO.java
-/workspaces/biblioteca-cesumar/src/main/java/com/cesumar/controller/LivroServlet.java
-/workspaces/biblioteca-cesumar/src/main/java/com/cesumar/controller/LivroBean.java
+/workspaces/biblioteca-universidade/src/main/java/com/cesumar/controller/LivroBean.java
+/workspaces/biblioteca-universidade/src/main/java/com/cesumar/model/Livro.java
+/workspaces/biblioteca-universidade/src/main/java/com/cesumar/controller/LivroServlet.java
+/workspaces/biblioteca-universidade/src/main/java/com/cesumar/model/LivroDAO.java
